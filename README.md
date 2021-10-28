@@ -17,4 +17,4 @@
 
 💼 Team: @EternalCloud
 
-Programming is my life and hobby ❤️
+Programming is my life❤️
