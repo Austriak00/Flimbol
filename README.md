@@ -1,4 +1,5 @@
-Hi, I'm Tomek! 👋
+### Hi, I'm Tomek! 👋
+
 ⚡ Junior Java and FrontEnd Developer
 
 💻 So far I've used:
